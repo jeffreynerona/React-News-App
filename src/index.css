@@ -11,3 +11,29 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.container {
+  padding: 10px;
+}
+
+.ui.header {
+  text-align: center;
+  padding-top: 25px;
+}
+
+.myMenu {
+  width: 100%;
+}
+
+.myMenu .myMenuItem {
+  width: 33.33%;
+}
+
+.myArticle {
+  cursor: pointer;
+}
+
+.myFooter {
+  cursor: pointer;
+  margin-top: 50px;
+}

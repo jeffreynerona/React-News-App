@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# News App
+
+A simple news application using React, Axios, Semantic UI and NewsAPI.Org
 
 ## Available Scripts
 
