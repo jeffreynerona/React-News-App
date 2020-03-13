@@ -8,7 +8,7 @@ const Footer = () => {
       <p className="myFooter" onClick={onClick}>
         <Divider inverted />
         This App is powered by NewsAPI.org
-      </p>;
+      </p>
     </React.Fragment>
   );
 };

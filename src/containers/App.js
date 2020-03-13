@@ -20,7 +20,7 @@ const App = () => {
   const [found, articles, loading] = useNews(country, type, query);
 
   return (
-    <Container>
+    <Container className="myContainer">
       <AppHeading name="Jeff" />
       <Menu
         handleTypeChange={handleTypeChange}
